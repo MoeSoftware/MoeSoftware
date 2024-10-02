@@ -1,16 +1,29 @@
-## Hi there 👋
+## About Me
 
-<!--
-**MoeSoftware/MoeSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Lua
+```lua
+local Moe = {
+  ['name'] = "Mohammad Joma",
+  ['age'] = 19,
+  ['major'] = "Computer Science"
+}
+print("Hello, I'm " .. Moe['name'] .. ", I'm " .. Moe['age'] .. " years old and majoring in " .. Moe['major'] .. ".")
+```
 
-Here are some ideas to get you started:
+** Python
+```python
+class Person():
+    def __init__(self, skills):
+        self.skills = skills
+        
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mohammad = Person(["Lua", "Python", "JavaScript", "HTML", "CSS", "C++"])
+
+print("I'm developing and working on these skills: " + str(Mohammad.skills))
+```
+* Combined Output
+
+```
+Hello, I'm Mohammad Joma, I'm 19 years old and majoring in Computer Science.
+I'm developing and working on these skills: ['Lua', 'Python', 'JavaScript', 'HTML', 'CSS', 'C++']
+```
