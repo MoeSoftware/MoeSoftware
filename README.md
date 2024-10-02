@@ -1,6 +1,7 @@
 ## About Me
 
-** Lua
+* Lua
+
 ```lua
 local Moe = {
   ['name'] = "Mohammad Joma",
@@ -9,8 +10,8 @@ local Moe = {
 }
 print("Hello, I'm " .. Moe['name'] .. ", I'm " .. Moe['age'] .. " years old and majoring in " .. Moe['major'] .. ".")
 ```
+* Python
 
-** Python
 ```python
 class Person():
     def __init__(self, skills):
