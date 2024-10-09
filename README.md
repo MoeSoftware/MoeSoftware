@@ -28,3 +28,17 @@ print("I'm developing and working on these skills: " + str(Mohammad.skills))
 Hello, I'm Mohammad Joma, I'm 19 years old and majoring in Computer Science.
 I'm developing and working on these skills: ['Lua', 'Python', 'JavaScript', 'HTML', 'CSS', 'C++']
 ```
+
+## Join my discord for FiveM Development
+<p>
+  <a href="[https://skillicons.dev](https://discord.gg/MBrU2TZnKc)">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
+
+# Skills
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,lua,py,git,github,bots,js,html,css,blender,robloxstudio" />
+  </a>
+</p>
