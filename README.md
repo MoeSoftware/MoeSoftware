@@ -31,7 +31,7 @@ I'm developing and working on these skills: ['Lua', 'Python', 'JavaScript', 'HTM
 
 ## Join my discord for FiveM Development
 <p>
-  <a href="https://discord.gg/MBrU2TZnKc"
+  <a href="https://discord.gg/MBrU2TZnKc">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
