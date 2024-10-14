@@ -39,6 +39,6 @@ I'm developing and working on these skills: ['Lua', 'Python', 'JavaScript', 'HTM
 # Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,lua,py,git,github,bots,js,html,css,blender,robloxstudio" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,lua,py,git,github,bots,js,html,css,blender,robloxstudio,kotlin" />
   </a>
 </p>
