@@ -5,7 +5,7 @@
 ```lua
 local Moe = {
   ['name'] = "Mohammad Joma",
-  ['age'] = 20,
+  ['age'] = 21,
   ['major'] = "Computer Science"
 }
 print("Hello, I'm " .. Moe['name'] .. ", I'm " .. Moe['age'] .. " years old and majoring in " .. Moe['major'] .. ".")
