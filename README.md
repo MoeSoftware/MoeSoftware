@@ -25,7 +25,7 @@ print("I'm developing and working on these skills: " + str(Mohammad.skills))
 * Combined Output
 
 ```
-Hello, I'm Mohammad Joma, I'm 20 years old and majoring in Computer Science.
+Hello, I'm Mohammad Joma, I'm 21 years old and majoring in Computer Science.
 I'm developing and working on these skills: ['Lua', 'Python', 'JavaScript', 'HTML', 'CSS', 'C++']
 ```
 
