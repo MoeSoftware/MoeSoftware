@@ -1,44 +1,56 @@
-## About Me
+<h1 align="center">Hey, I'm Mohammad 👋</h1>
 
-* Lua
+<p align="center">
+  <em>21 · Computer Science Student · FiveM Developer</em>
+</p>
 
-```lua
-local Moe = {
-  ['name'] = "Mohammad Joma",
-  ['age'] = 21,
-  ['major'] = "Computer Science"
-}
-print("Hello, I'm " .. Moe['name'] .. ", I'm " .. Moe['age'] .. " years old and majoring in " .. Moe['major'] .. ".")
-```
-* Python
-
-```python
-class Person():
-    def __init__(self, skills):
-        self.skills = skills
-        
-
-Mohammad = Person(["Lua", "Python", "JavaScript", "HTML", "CSS", "C++"])
-
-print("I'm developing and working on these skills: " + str(Mohammad.skills))
-```
-* Combined Output
-
-```
-Hello, I'm Mohammad Joma, I'm 21 years old and majoring in Computer Science.
-I'm developing and working on these skills: ['Lua', 'Python', 'JavaScript', 'HTML', 'CSS', 'C++']
-```
-
-## Join my discord for FiveM Development
-<p>
+<p align="center">
   <a href="https://discord.gg/MBrU2TZnKc">
-    <img src="https://skillicons.dev/icons?i=discord" />
+    <img src="https://img.shields.io/badge/Discord-Join%20My%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
-# Skills
-<p>
+---
+
+## About Me
+
+```lua
+local Mohammad = {
+  name    = "Mohammad Joma",
+  age     = 21,
+  major   = "Computer Science",
+  skills  = { "Lua", "Python", "JavaScript", "HTML", "CSS", "C++", "Linux", "Burp Suite", "Penetration Testing" },
+  focus   = "FiveM Development",
+}
+```
+
+- Currently studying **Computer Science**
+- Building and maintaining **FiveM** resources
+- Always learning and expanding my skill set
+
+---
+
+## Skills
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,lua,py,git,github,bots,js,html,css,blender,robloxstudio,kotlin" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,lua,py,js,html,css,git,github,blender,kotlin" />
+  </a>
+</p>
+
+---
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoeSoftware&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoeSoftware&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://discord.gg/MBrU2TZnKc">
+    <img src="https://skillicons.dev/icons?i=discord" title="Join my Discord" />
   </a>
 </p>
