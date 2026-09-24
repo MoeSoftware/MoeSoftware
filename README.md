@@ -16,7 +16,7 @@
 
 ```lua
 local Mohammad = {
-  name    = "Mohammad Joma",
+  name    = "Mohammad",
   age     = 21,
   major   = "Computer Science",
   skills  = { "Lua", "Python", "JavaScript", "HTML", "CSS", "C++", "Linux", "Burp Suite", "Penetration Testing" },
@@ -42,10 +42,7 @@ local Mohammad = {
 
 ## Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoeSoftware&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoeSoftware&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MoeSoftware&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=MoeSoftware&langs_count=4&theme=dark_github)
 
 ---
 
